@@ -21,4 +21,3 @@ Bu proje, Laravel ile geliştirilmiş bir araç galerisi otomasyon sistemidir.
 ### Lisans ###
 MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
 ---
-Bu daha öz bir README dosyası formatıdır. Projeye özgü kurulum adımları, kullanım yönergeleri ve katkıda bulunma gibi bilgileri içerir. README dosyası, projenin temel özelliklerini ve nasıl kullanılacağını hızlıca anlatır.
