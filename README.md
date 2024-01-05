@@ -9,7 +9,7 @@ Bu proje, Laravel ile geliştirilmiş bir araç galerisi otomasyon sistemidir.
 3. .env.example dosyasını .env olarak kopyalayın ve veritabanı bağlantı ayarlarınızı girin.
 4. php artisan migrate komutunu kullanarak veritabanı tablolarını oluşturun.
 5. php artisan serve komutu ile yerel sunucunuzu başlatın.
-### Kullanım [!IMPORTANT]
+### Kullanım ### > [!IMPORTANT]
 + Yönetici paneline giriş yapın.
 + Yönetici paneline giriş yapmak için bir register sayfası mevcut değil, phpmyadmin üzerinden bir user ekleyin. Şifre için bcrypt generator ile 12 roundluk istediğiniz bir texti şifre olarak belirleyebilirsiniz.
 + Araçları listeleyin, ekleyin, düzenleyin veya silebilirsiniz.
