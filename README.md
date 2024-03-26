@@ -1,7 +1,9 @@
 # Araç Galerisi Otomasyon Projesi
 
 Bu proje, Laravel ile geliştirilmiş bir araç galerisi otomasyon sistemidir.
+### Ana Sayfadan Bir Kare :
 ![image](https://github.com/DogukanTuncay/laravel-auto-gallery/assets/104570289/9a362c73-65e9-4105-8e29-08fe1128ed6e)
+### Admin Paneli Sayfa Ayarlarından Bir Kare :
 ![image](https://github.com/DogukanTuncay/laravel-auto-gallery/assets/104570289/06aff40a-8cd5-49ed-a019-92641f40f78f)
 
 ### Kurulum
